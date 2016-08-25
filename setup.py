@@ -6,6 +6,7 @@ setup(
     version='0.1',
     description='Backport of Python 2.7\'s collections module',
     long_description=open('README.rst').read(),
+    license='Python-2.0',
     maintainer='Sebastian Kreft',
     url='http://github.com/sk-/backport_collections',
     py_modules=['backport_collections', 'backport_abcoll'],
